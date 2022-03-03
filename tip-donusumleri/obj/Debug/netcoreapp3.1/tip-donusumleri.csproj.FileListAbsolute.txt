@@ -1,0 +1,11 @@
+D:\Sites\patika-charp-101\tip-donusumleri\bin\Debug\netcoreapp3.1\tip-donusumleri.exe
+D:\Sites\patika-charp-101\tip-donusumleri\bin\Debug\netcoreapp3.1\tip-donusumleri.deps.json
+D:\Sites\patika-charp-101\tip-donusumleri\bin\Debug\netcoreapp3.1\tip-donusumleri.runtimeconfig.json
+D:\Sites\patika-charp-101\tip-donusumleri\bin\Debug\netcoreapp3.1\tip-donusumleri.runtimeconfig.dev.json
+D:\Sites\patika-charp-101\tip-donusumleri\bin\Debug\netcoreapp3.1\tip-donusumleri.dll
+D:\Sites\patika-charp-101\tip-donusumleri\bin\Debug\netcoreapp3.1\tip-donusumleri.pdb
+D:\Sites\patika-charp-101\tip-donusumleri\obj\Debug\netcoreapp3.1\tip-donusumleri.csprojAssemblyReference.cache
+D:\Sites\patika-charp-101\tip-donusumleri\obj\Debug\netcoreapp3.1\tip-donusumleri.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\tip-donusumleri\obj\Debug\netcoreapp3.1\tip-donusumleri.AssemblyInfo.cs
+D:\Sites\patika-charp-101\tip-donusumleri\obj\Debug\netcoreapp3.1\tip-donusumleri.dll
+D:\Sites\patika-charp-101\tip-donusumleri\obj\Debug\netcoreapp3.1\tip-donusumleri.pdb
