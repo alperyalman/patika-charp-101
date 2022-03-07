@@ -1,0 +1,15 @@
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfo.cs
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.exe
+D:\Sites\patika-charp-101\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.deps.json
+D:\Sites\patika-charp-101\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.runtimeconfig.json
+D:\Sites\patika-charp-101\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.dll
+D:\Sites\patika-charp-101\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.pdb
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.dll
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\refint\donguler-for-loop.dll
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.pdb
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.genruntimeconfig.cache
+D:\Sites\patika-charp-101\donguler-for-loop\obj\Debug\net6.0\ref\donguler-for-loop.dll
