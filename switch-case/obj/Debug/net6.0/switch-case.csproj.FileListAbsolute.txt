@@ -1,0 +1,15 @@
+D:\Sites\patika-charp-101\switch-case\bin\Debug\net6.0\switch-case.exe
+D:\Sites\patika-charp-101\switch-case\bin\Debug\net6.0\switch-case.deps.json
+D:\Sites\patika-charp-101\switch-case\bin\Debug\net6.0\switch-case.runtimeconfig.json
+D:\Sites\patika-charp-101\switch-case\bin\Debug\net6.0\switch-case.dll
+D:\Sites\patika-charp-101\switch-case\bin\Debug\net6.0\switch-case.pdb
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\switch-case.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfo.cs
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\switch-case.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\switch-case.dll
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\refint\switch-case.dll
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\switch-case.pdb
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\switch-case.genruntimeconfig.cache
+D:\Sites\patika-charp-101\switch-case\obj\Debug\net6.0\ref\switch-case.dll
