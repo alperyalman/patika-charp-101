@@ -1,0 +1,15 @@
+D:\Sites\patika-charp-101\diziler\bin\Debug\net6.0\diziler.exe
+D:\Sites\patika-charp-101\diziler\bin\Debug\net6.0\diziler.deps.json
+D:\Sites\patika-charp-101\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+D:\Sites\patika-charp-101\diziler\bin\Debug\net6.0\diziler.dll
+D:\Sites\patika-charp-101\diziler\bin\Debug\net6.0\diziler.pdb
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\diziler.dll
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\refint\diziler.dll
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\diziler.pdb
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
+D:\Sites\patika-charp-101\diziler\obj\Debug\net6.0\ref\diziler.dll
