@@ -1,0 +1,15 @@
+D:\Sites\patika-charp-101\metotlar\bin\Debug\net6.0\metotlar.exe
+D:\Sites\patika-charp-101\metotlar\bin\Debug\net6.0\metotlar.deps.json
+D:\Sites\patika-charp-101\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+D:\Sites\patika-charp-101\metotlar\bin\Debug\net6.0\metotlar.dll
+D:\Sites\patika-charp-101\metotlar\bin\Debug\net6.0\metotlar.pdb
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\metotlar.dll
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\refint\metotlar.dll
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\metotlar.pdb
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
+D:\Sites\patika-charp-101\metotlar\obj\Debug\net6.0\ref\metotlar.dll
