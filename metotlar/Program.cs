@@ -75,11 +75,95 @@ namespace metotlar // Note: actual namespace depends on the project name.
             // Out olarak kullanılmak istenen değişken önüne mutlaka "out" yazılmalıdır.
             // out değişkeninin bir ilk değeri olmak zorunda değildir. Hatırlarsanız bu ref kullanırken zorunluydu.
             Console.WriteLine("a = 4, b = 8, Toplam = " + Toplam(4,8, out int toplam));
+            
+            //Recursive - Özyinelemeli Fonksiyonlar
+            //3^4 = 3*3*3*3 
+            Console.WriteLine("===== Recusrsive Fonksiyon =====");
+
+            int sonuc2 = 1;
+            for (int i = 1; i < 5; i++)
+            {
+                sonuc2 = sonuc2*3;
+            }
+            Console.WriteLine("3^4 = " + sonuc2);   
+
+            Islemler instance = new Islemler();
+            Console.WriteLine("3^4 = " + instance.Expo(3,4));
+
+            Console.WriteLine("===== Extension Metotlar =====");
+            string ifade = "Alper Alper Alper Alper";
+            bool isSpaced = ifade.CheckSpaces();
+            Console.WriteLine(isSpaced);
+            if(isSpaced)
+                Console.WriteLine(ifade.RemoveWhiteSpaces());
+            
+            Console.WriteLine(ifade.MakeUpperCase());
+            Console.WriteLine(ifade.MakeLowerCase());
+            
+
+            int[] dizi = {1,3,5,4,6,8,6,2};
+            Console.WriteLine("Dizi: ");
+            dizi.EkranaYazdir();
+
+            
+            Console.WriteLine("Sıralı Dizi: ");
+            dizi.SortArray().EkranaYazdir();
+
             Console.ReadLine();
-
-
+ 
         }
-
         
     }
+
+    public class Islemler 
+    {
+        public int Expo(int sayi, int us)
+        {
+            if(us<2)
+                return sayi;
+            return  sayi*Expo(sayi,us-1);
+        }
+
+    }
+
+    //Extension classlar static olmalı
+    public static class Extension
+    {
+        public static bool CheckSpaces(this string param)
+        {
+            return param.Contains(" ");
+        }
+
+        public static string RemoveWhiteSpaces(this string param) 
+        {
+            string[] dizi = param.Split(" ");
+            return String.Join("",dizi);
+        }
+
+        public static string MakeUpperCase(this string param) 
+        {
+            return param.ToUpper();
+        }
+
+        public static string MakeLowerCase(this string param) 
+        {
+            return param.ToLower();
+        }
+
+        public static int[] SortArray(this int[] param)
+        {
+            Array.Sort(param);
+            return param;
+        }
+
+        public static void EkranaYazdir(this int[] param)
+        {
+            foreach (int item in param)
+            {
+                Console.WriteLine(item);
+                
+            }
+        }
+    }
+
 }
