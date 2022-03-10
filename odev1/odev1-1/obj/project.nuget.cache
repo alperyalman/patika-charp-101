@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ceZLWl05iSyMDvoaBP0DA4wreYj8pFY73Sr7Hopq/pm3JLpF7VppjF8F1ZB99k3NoNguRKd4wV+YpJ1nsWc5Ww==",
+  "success": true,
+  "projectFilePath": "D:\\Sites\\patika-charp-101\\odev1\\odev1-1\\odev1-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

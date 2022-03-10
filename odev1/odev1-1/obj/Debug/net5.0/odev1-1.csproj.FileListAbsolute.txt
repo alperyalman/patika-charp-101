@@ -1,0 +1,16 @@
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\odev1-1.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\odev1-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\odev1-1.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\odev1-1.AssemblyInfo.cs
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\odev1-1.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\odev1\odev1-1\bin\Debug\net5.0\odev1-1.exe
+D:\Sites\patika-charp-101\odev1\odev1-1\bin\Debug\net5.0\odev1-1.deps.json
+D:\Sites\patika-charp-101\odev1\odev1-1\bin\Debug\net5.0\odev1-1.runtimeconfig.json
+D:\Sites\patika-charp-101\odev1\odev1-1\bin\Debug\net5.0\odev1-1.runtimeconfig.dev.json
+D:\Sites\patika-charp-101\odev1\odev1-1\bin\Debug\net5.0\odev1-1.dll
+D:\Sites\patika-charp-101\odev1\odev1-1\bin\Debug\net5.0\odev1-1.pdb
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\odev1-1.dll
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\refint\odev1-1.dll
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\odev1-1.pdb
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\odev1-1.genruntimeconfig.cache
+D:\Sites\patika-charp-101\odev1\odev1-1\obj\Debug\net5.0\ref\odev1-1.dll
