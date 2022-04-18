@@ -1,0 +1,16 @@
+D:\Sites\patika-charp-101\dictionary\bin\Debug\net5.0\dictionary.exe
+D:\Sites\patika-charp-101\dictionary\bin\Debug\net5.0\dictionary.deps.json
+D:\Sites\patika-charp-101\dictionary\bin\Debug\net5.0\dictionary.runtimeconfig.json
+D:\Sites\patika-charp-101\dictionary\bin\Debug\net5.0\dictionary.runtimeconfig.dev.json
+D:\Sites\patika-charp-101\dictionary\bin\Debug\net5.0\dictionary.dll
+D:\Sites\patika-charp-101\dictionary\bin\Debug\net5.0\dictionary.pdb
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\dictionary.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\dictionary.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\dictionary.AssemblyInfo.cs
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\dictionary.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\dictionary.dll
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\refint\dictionary.dll
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\dictionary.pdb
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\dictionary.genruntimeconfig.cache
+D:\Sites\patika-charp-101\dictionary\obj\Debug\net5.0\ref\dictionary.dll
