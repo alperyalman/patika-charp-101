@@ -1,0 +1,16 @@
+D:\Sites\patika-charp-101\encapsulation\bin\Debug\net5.0\encapsulation.exe
+D:\Sites\patika-charp-101\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+D:\Sites\patika-charp-101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+D:\Sites\patika-charp-101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+D:\Sites\patika-charp-101\encapsulation\bin\Debug\net5.0\encapsulation.dll
+D:\Sites\patika-charp-101\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\encapsulation.dll
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\refint\encapsulation.dll
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
+D:\Sites\patika-charp-101\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
