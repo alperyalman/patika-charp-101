@@ -1,0 +1,16 @@
+D:\Sites\patika-charp-101\enum\bin\Debug\net5.0\enum-kavrami.exe
+D:\Sites\patika-charp-101\enum\bin\Debug\net5.0\enum-kavrami.deps.json
+D:\Sites\patika-charp-101\enum\bin\Debug\net5.0\enum-kavrami.runtimeconfig.json
+D:\Sites\patika-charp-101\enum\bin\Debug\net5.0\enum-kavrami.runtimeconfig.dev.json
+D:\Sites\patika-charp-101\enum\bin\Debug\net5.0\enum-kavrami.dll
+D:\Sites\patika-charp-101\enum\bin\Debug\net5.0\enum-kavrami.pdb
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\enum-kavrami.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\enum-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\enum-kavrami.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\enum-kavrami.AssemblyInfo.cs
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\enum-kavrami.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\enum-kavrami.dll
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\refint\enum-kavrami.dll
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\enum-kavrami.pdb
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\enum-kavrami.genruntimeconfig.cache
+D:\Sites\patika-charp-101\enum\obj\Debug\net5.0\ref\enum-kavrami.dll

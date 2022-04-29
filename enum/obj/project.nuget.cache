@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYk1RW7l6FNsIOiKqedxuI7SIfW1ovih3+YrREfbEFW8O4dJXpYp2uTo2ZoI2bcsWrpccuN6bb4/kJPTUOrywQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sites\\patika-charp-101\\enum\\enum-kavrami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
