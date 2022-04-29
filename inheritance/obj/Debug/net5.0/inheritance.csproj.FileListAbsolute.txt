@@ -1,0 +1,16 @@
+D:\Sites\patika-charp-101\inheritance\bin\Debug\net5.0\inheritance.exe
+D:\Sites\patika-charp-101\inheritance\bin\Debug\net5.0\inheritance.deps.json
+D:\Sites\patika-charp-101\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.json
+D:\Sites\patika-charp-101\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.dev.json
+D:\Sites\patika-charp-101\inheritance\bin\Debug\net5.0\inheritance.dll
+D:\Sites\patika-charp-101\inheritance\bin\Debug\net5.0\inheritance.pdb
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\inheritance.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfo.cs
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\inheritance.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\inheritance.dll
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\refint\inheritance.dll
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\inheritance.pdb
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\inheritance.genruntimeconfig.cache
+D:\Sites\patika-charp-101\inheritance\obj\Debug\net5.0\ref\inheritance.dll
