@@ -2,7 +2,7 @@ using System;
 
 namespace inheritance
 {
-    public class Canlilar
+    public class Canlilar // public sealed class Canlilar: sealed ile kalıtım engelleniyor
     {
         protected void Beslenme()
         {
@@ -17,6 +17,11 @@ namespace inheritance
         protected void Sindirim()
         {
             Console.WriteLine("Canlilar sindirim yapar");
+        }
+
+        public virtual void UyaranlaraTepki()
+        {
+            Console.WriteLine("Canlılar uyaranlar tepki verir");
         }
     }
 

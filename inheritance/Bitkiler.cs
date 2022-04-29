@@ -3,24 +3,27 @@ using System;
 namespace inheritance
 {
     public class Bitkiler:Canlilar {
-        public Bitkiler() {
-            base.Beslenme();
-            base.Solunum();
-            base.Sindirim();
-        }
+        
         protected void FotsentezYapmak()
         {
             Console.WriteLine("Birkiler fotosentez yapar");
-        }   
+        }
+
+        public override void UyaranlaraTepki()
+        {
+            //base.UyaranlaraTepki();
+            Console.WriteLine("Bitkiler güneşe tepki verir");
+        }
     }
 
     public class TohumluBitkiler: Bitkiler {
         public TohumluBitkiler()
         {
             base.FotsentezYapmak();
-            // base.Beslenme();
-            // base.Solunum();
-            // base.Sindirim();  
+            base.Beslenme();
+            base.Solunum();
+            base.Sindirim(); 
+            base.UyaranlaraTepki(); 
         }
 
         public void TohumlaCogalma()
