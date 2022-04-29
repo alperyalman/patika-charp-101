@@ -1,0 +1,16 @@
+D:\Sites\patika-charp-101\struct-kavrami\bin\Debug\net5.0\struct-kavrami.exe
+D:\Sites\patika-charp-101\struct-kavrami\bin\Debug\net5.0\struct-kavrami.deps.json
+D:\Sites\patika-charp-101\struct-kavrami\bin\Debug\net5.0\struct-kavrami.runtimeconfig.json
+D:\Sites\patika-charp-101\struct-kavrami\bin\Debug\net5.0\struct-kavrami.runtimeconfig.dev.json
+D:\Sites\patika-charp-101\struct-kavrami\bin\Debug\net5.0\struct-kavrami.dll
+D:\Sites\patika-charp-101\struct-kavrami\bin\Debug\net5.0\struct-kavrami.pdb
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\struct-kavrami.csproj.AssemblyReference.cache
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\struct-kavrami.AssemblyInfoInputs.cache
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\struct-kavrami.AssemblyInfo.cs
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\struct-kavrami.csproj.CoreCompileInputs.cache
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\struct-kavrami.dll
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\refint\struct-kavrami.dll
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\struct-kavrami.pdb
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\struct-kavrami.genruntimeconfig.cache
+D:\Sites\patika-charp-101\struct-kavrami\obj\Debug\net5.0\ref\struct-kavrami.dll
